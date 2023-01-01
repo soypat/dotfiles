@@ -1,0 +1,21 @@
+{
+    "workbench.sideBar.location": "right",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+    },
+    "gopls": { 
+       "ui.semanticTokens": true,
+},
+"workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+"workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+"go.toolsManagement.autoUpdate": true,
+"editor.rulers": [
+{"column": 80}
+],
+"editor.largeFileOptimizations": false,
+"zls.path": "/home/pato/.config/Code/User/globalStorage/augusterame.zls-vscode/zls_install/zls",
+"cmake.configureOnOpen": true,
+"window.zoomLevel": 2,
+}
